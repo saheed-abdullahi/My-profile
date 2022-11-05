@@ -1,0 +1,39 @@
+main{
+    display:flex;
+    flex-direction: column;
+    min-height: 100vh;
+justify-content: center;
+padding: 0 30px;
+text-align: center;
+background-image:url(web.jpg);
+
+color: blue;
+
+
+
+}
+main > .intro {
+
+    font-size: 3.75em;
+    font-weight: 600;
+    
+}
+main > .tagline {
+    font-size: 1.5rem;
+   margin : 1.5rem 0;
+   font-weight: 100;
+}
+.icon-social i {
+
+    padding: 10px;
+    }
+    
+    .icon-social  a {
+     text-decoration: none;
+     Color: red;
+
+    }
+    .tagline{
+        color: chartreuse;
+    }
+    
